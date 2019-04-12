@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLite Example</string>
+
+    <string-array name="daftar_jurusan">
+        <item>Teknik Informatika</item>
+        <item>Manajemen Informatika</item>
+        <item>Akuntansi</item>
+        <item>Tekni Mesin</item>
+        <item>Teknik Sipil</item>
+        <item>Teknik Elektro</item>
+
+    </string-array>
+</resources>
